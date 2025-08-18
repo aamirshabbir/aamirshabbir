@@ -1,8 +1,6 @@
-# Hi, I'm Amir Shabbir 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DBF73&width=435&lines=Full-Stack+%26+AI+Developer;Final+Year+Computer+Science+Student;Freelancer+%7C+Web+Solutions+%26+AI+Integration)](https://git.io/typing-svg)
+<h1 align='center'>Hi, I'm Amir Shabbir 👋</h1>
 
----
-
+<a href="https://github.com/aamirshabbir"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=500&color=1DBF73&center=true&width=935&height=55&lines=Full-Stack+%26+AI+Developer;Final+Year+Computer+Science+Student;Freelancer+%7C+Web+Solutions+%26+AI+Integration;Always+Learning" alt="Typing SVG" /></a></br>
 ## 👨‍💻 @whoami:
 🎓 Final Year Computer Science Student | 💻 Full-Stack & AI Developer | 🌍 Freelancer  
 
@@ -32,8 +30,9 @@ My focus is on combining **clean UI/UX, powerful backend logic, and smart AI int
 ---
 
 ## 📫 Let's Connect:
-- 📧 Email: **amirshabbir56@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/amir-shabbir/)  
+<a href="mailto:amirshabbir56@gmail.com" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="Gmail" style="width:45px;height:45px;"></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/amir-shabbir/" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" alt="LinkedIn" style="width:45px;height:45px;"></a>
 
 ---
 
