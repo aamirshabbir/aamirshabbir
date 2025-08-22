@@ -1,11 +1,12 @@
 <h1 align='center'>Hi, I'm Amir Shabbir 👋</h1>
 
-<a href="https://github.com/aamirshabbir"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=500&color=1DBF73&center=true&width=935&height=55&lines=Full-Stack+%26+AI+Developer;Final+Year+Computer+Science+Student;Freelancer+%7C+Web+Solutions+%26+AI+Integration;Always+Learning" alt="Typing SVG" /></a></br>
+<a href="https://github.com/aamirshabbir"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=500&color=1DBF73&center=true&width=935&height=55&lines=Full-Stack+Web+%26+CMS+Developer;Final+Year+Computer+Science+Student;Freelancer+%7C+Web+Solutions+%26+AI+Integration;AI+Enthusiast+%26+Practitioner;Always+Learning" alt="Typing SVG" /></a></br>
 ## 👨‍💻 @whoami:
-🎓 Final Year Computer Science Student | 💻 Full-Stack & AI Developer | 🌍 Freelancer  
+🎓 Final Year Computer Science Student | 💻 Full-Stack Web & CMS Developer | 🤖 AI Enthusiast & Practitioner | 🌍 Freelancer  
 
 I build **modern web solutions** ranging from e-commerce platforms to AI-powered applications.  
-My focus is on combining **clean UI/UX, powerful backend logic, and smart AI integrations** to deliver high-performance products.  
+My focus is on combining **clean UI/UX, powerful backend logic, and evolving AI expertise** to deliver intelligent, high-performance products.  
+Currently **advancing my AI craft** through hands-on projects and real-world implementations.
 
 ---
 
