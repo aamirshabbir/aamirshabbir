@@ -50,4 +50,22 @@ Currently **advancing my AI craft** through hands-on projects and real-world imp
 
 ---
 
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aamirshabbir&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aamirshabbir&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamirshabbir&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🐍 Contribution Snake:
+![Snake animation](https://github.com/aamirshabbir/aamirshabbir/blob/output/github-contribution-grid-snake.svg)
+
 💡 *“Code is like humor. When you have to explain it, it’s bad — so I write code that speaks for itself.”*
