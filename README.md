@@ -4,9 +4,7 @@
 ## 👨‍💻 @whoami:
 🎓 Final Year Computer Science Student | 💻 Full-Stack Web & CMS Developer | 🤖 AI Enthusiast & Practitioner | 🌍 Freelancer  
 
-I build **modern web solutions** ranging from e-commerce platforms to AI-powered applications.  
-My focus is on combining **clean UI/UX, powerful backend logic, and evolving AI expertise** to deliver intelligent, high-performance products.  
-Currently **advancing my AI craft** through hands-on projects and real-world implementations.
+I build **modern web solutions** ranging from e-commerce platforms to AI-powered applications. My focus is on combining **clean UI/UX, powerful backend logic, and evolving AI expertise** to deliver intelligent, high-performance products. hCurrently **advancing my AI craft** through hands-on projects and real-world implementations.
 
 ---
 
