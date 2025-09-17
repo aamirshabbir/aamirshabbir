@@ -14,7 +14,7 @@ I build **modern web solutions** ranging from e-commerce platforms to AI-powered
 - **CMS & E-commerce:** WordPress/WooCommerce, Shopify, Squarespace, Webflow, Wix  
 - **APIs:** OpenAI API, REST API, Custom API Development  
 - **AI & Machine Learning:** AI Chatbots, Image Processing, Recommendation Systems  
-- **Other Tools:** Git/GitHub, VS Code, Elementor, WPBakery, ACF, PageFly  
+- **Other Tools:** Git/GitHub, VS Code, Elementor, WPBakery, ACF, PageFly, any other page builder or tool in your mind.
 
 ---
 
