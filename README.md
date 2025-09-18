@@ -49,9 +49,6 @@ I build **modern web solutions** ranging from e-commerce platforms to AI-powered
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aamirshabbir&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=aamirshabbir&theme=radical" alt="GitHub Streak" />
